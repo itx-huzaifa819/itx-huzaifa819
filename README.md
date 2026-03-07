@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=220&section=header&text=Muhammad%20Huzaifa%20Sajid&fontSize=44&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Developer%20%7C%20GenAI%20Engineer%20%7C%20MLOps%20Architect&descAlignY=58&descSize=18&descColor=8b949e"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=🤖+Agentic+AI+%26+Multi-Agent+Systems+Developer;🧠+Generative+AI+Engineer+%7C+LLMOps+Practitioner;⚙️+MLOps+%26+AI+Pipeline+Architect;🔗+RAG+Systems+%7C+LangChain+%7C+LangGraph+Expert;🚀+Building+AI+that+Thinks%2C+Plans+%26+Acts" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Agentic+AI+%26+Multi-Agent+Systems+Developer;Generative+AI+Engineer+%7C+LLMOps+Practitioner;MLOps+%26+AI+Pipeline+Architect;RAG+Systems+%7C+LangChain+%7C+LangGraph+Expert;Building+AI+that+Thinks%2C+Plans+%26+Acts" alt="Typing SVG" />
 
 <br/><br/>
 
