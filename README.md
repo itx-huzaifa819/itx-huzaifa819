@@ -7,7 +7,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huzaifa%20Sajid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-sajid-7a0213373)
-[![GitHub](https://img.shields.io/badge/GitHub-itx--huzaifa819-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itx-huzaifa819/Muhammad-Huzaifa-Sajid)
+[![GitHub](https://img.shields.io/badge/GitHub-itx--huzaifa819-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itx-huzaifa819)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifasajidhs81977@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
@@ -27,7 +27,7 @@ class AgenticAIEngineer:
         self.name           = "Muhammad Huzaifa Sajid"
         self.role           = "Agentic AI & Generative AI Developer"
         self.university     = "University of Debrecen — Computer Science"
-        self.experience     = "5+ Years in AI/ML Development"
+        self.experience     = "2+ Years in AI/ML Development"
         self.location       = "🌍 Open to Remote / Relocation Worldwide"
         self.status         = "🟢 Actively Looking for Opportunities"
 
@@ -97,7 +97,6 @@ me = AgenticAIEngineer()
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=for-the-badge&logo=python&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robot&logoColor=white)
-![DSPy](https://img.shields.io/badge/DSPy-6C3483?style=for-the-badge&logo=python&logoColor=white)
 ![Haystack](https://img.shields.io/badge/Haystack-00A896?style=for-the-badge&logo=python&logoColor=white)
 ![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
@@ -105,10 +104,8 @@ me = AgenticAIEngineer()
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT4o-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F54E27?style=for-the-badge&logo=groq&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama_Local-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral_AI-FF6B00?style=for-the-badge&logo=mistral&logoColor=white)
 
 ### 🗄️ Vector Databases & Knowledge Stores
@@ -116,9 +113,6 @@ me = AgenticAIEngineer()
 ![Weaviate](https://img.shields.io/badge/Weaviate-FA0050?style=for-the-badge&logo=weaviate&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B2B?style=for-the-badge&logo=python&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
-![PGVector](https://img.shields.io/badge/PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -130,46 +124,31 @@ me = AgenticAIEngineer()
 
 ### 🔁 MLOps, Pipelines & Experiment Tracking
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
-![ZenML](https://img.shields.io/badge/ZenML-431D93?style=for-the-badge&logo=zenml&logoColor=white)
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-003F8E?style=for-the-badge&logo=kubeflow&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white)
 
 ### 🐳 Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🚀 CI/CD & GitOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### ☁️ Cloud Platforms & AI Services
 ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP Vertex](https://img.shields.io/badge/GCP_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 📊 Monitoring, Observability & LLMOps
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Evidently AI](https://img.shields.io/badge/Evidently_AI-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
 
 ### 🏗️ Model Serving & Inference
 ![BentoML](https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=bentoml&logoColor=white)
 ![Ray Serve](https://img.shields.io/badge/Ray_Serve-028CF0?style=for-the-badge&logo=ray&logoColor=white)
 ![Triton](https://img.shields.io/badge/Triton_Inference-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![TorchServe](https://img.shields.io/badge/TorchServe-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
